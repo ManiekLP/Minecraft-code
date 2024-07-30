@@ -1,6 +1,6 @@
 # CmdSpammerMod
 
-**Simply mod to Spam command on server Minecraft. Preferred for use with `/msg` command**
+**Simply mod to Spam command on server Minecraft. Preferred for use with `/msg` command.**
 
 Default:
 --------

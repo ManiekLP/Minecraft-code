@@ -15,6 +15,7 @@ Command:
 - **`/cmdspam removebl <nick>` - Remove player from Blacklist.**
 
 `Blacklist` is a list of people skipped from `%PLAYER%`.
+
 `%PLAYER%` is a list of player active on server.
 
 Support:

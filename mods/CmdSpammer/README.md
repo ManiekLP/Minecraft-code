@@ -14,6 +14,7 @@ Command:
 - **`/cmdspam addbl <nick>` - Add player to Blacklist.**
 - **`/cmdspam removebl <nick>` - Remove player from Blacklist.**
 
+
 **Info:**
 - `Blacklist` is a list of people skipped from `%PLAYER%`.
 - `%PLAYER%` is a list of player active on server.

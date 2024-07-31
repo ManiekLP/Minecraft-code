@@ -9,7 +9,7 @@ Default:
 
 Command:
 --------
-- **`/cmdspam cmd <message>` - Set spam cmd. `%PLAYER%` = player from Server Player List**
+- **`/cmdspam cmd <message>` - Set spam cmd. Example: `/cmdspam cmd msg %PLAYER% hello`**
 - **`/cmdspam time <time>` - Set command cooldown. `1000` = `1s`**
 - **`/cmdspam addbl <nick>` - Add player to Blacklist.**
 - **`/cmdspam removebl <nick>` - Remove player from Blacklist.**

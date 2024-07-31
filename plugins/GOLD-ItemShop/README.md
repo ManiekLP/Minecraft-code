@@ -39,7 +39,8 @@ Jakby ustawienie usług w plikach było ciężkię to śpieszę z pomocą:
 
 **Przykład ustawienia pliku `itmes.yml`:**
 --------
-```items:
+```
+items:
   vip30d:
     key: vip30d
     instant: true
@@ -60,7 +61,8 @@ Jakby ustawienie usług w plikach było ciężkię to śpieszę z pomocą:
         - '&7Kluczyk do &eLegendarnej skrzyni'
         - '&7Kluczyk możesz zakupić na &c&nexample.com&c&n'
     commands:
-    - case give %PLAYER% 4```
+    - case give %PLAYER% 4
+```
 
 **Wersja:**
 --------

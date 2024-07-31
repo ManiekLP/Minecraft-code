@@ -1,0 +1,6 @@
+{
+    "name": "GOLD-ItemShop",
+    "version": "1.0.0",
+    "description": "Plugin na ItemShop z system nadawania przedmiotów do bazy danych MySql i możliwością odebrania ich pod komendę /odbierz",
+    "url": "DC.GOLD-PLUGINS.PL"
+}

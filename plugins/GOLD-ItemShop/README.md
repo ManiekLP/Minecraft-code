@@ -2,25 +2,25 @@
 
 **Opis:**
 --------
-- Plugin na ItemShop z system nadawania przedmiotów do bazy danych MySql i możliwością odebrania ich pod komendę /odbierz`
+- **Plugin na ItemShop z system nadawania przedmiotów do bazy danych MySql i możliwością odebrania ich pod komendę `/odbierz`**
 
 **Wymagania**
 --------
-- BazaDanych MySql
+- **BazaDanych MySql**
 
 **Komendy:**
 --------
-- `/odbierz` -  odbiór nagród
-- `/is` - opis
-- `/is reload` - przeładowanie configu
-- `/is list` - lista usług
-- `/is nadaj <gracz> <usluga>` - nadanie usługi danemu graczowi
-- `/is create <nazwa> [<komenda>]` - tworzy nową usługe w pliku items.yml z daną nazwą. i itemkiem podglądowym trzyumanym w łapie!
+- `/odbierz` -  Odbiór nagród
+- `/is` - Opis
+- `/is reload` - Przeładowanie configu
+- `/is list` - Lista usług
+- `/is nadaj <gracz> <usluga>` - Nadanie usługi danemu graczowi
+- `/is create <nazwa> [<komenda>]` - Tworzy nową usługe w pliku items.yml z daną nazwą. i itemkiem podglądowym trzyumanym w łapie!
 
 **Permisje:**
 --------
-- `gold.itemshop.admin`- umożliwia dostęp do komendy administracyjnej 
-- `gold.itemshop.use` - daje dostęp do `/odbierz`
+- `gold.itemshop.admin`- Umożliwia dostęp do komendy administracyjnej 
+- `gold.itemshop.use` - Daje dostęp do `/odbierz`
 
 **Zmienne:**
 --------

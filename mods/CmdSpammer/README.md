@@ -13,7 +13,6 @@ Command:
 - **`/cmdspam time <time>` - Set command cooldown. `1000` = `1s`**
 - **`/cmdspam addbl <nick>` - Add player to Blacklist.**
 - **`/cmdspam removebl <nick>` - Remove player from Blacklist.**
-- **`/cmdspam update` - Get information about new Version.**
 
 
 **Info:**

@@ -4,7 +4,7 @@
 --------
 - **Plugin na ItemShop z system nadawania przedmiotów do bazy danych MySql i możliwością odebrania ich pod komendę `/odbierz`**
 
-**DOWNLOAD ON [DISCORD](https://discord.gg/94qhBxDEv8)**
+**DOWNLOAD ON [SERVER DISCORD](https://discord.gg/94qhBxDEv8)**
 
 **Wymagania**
 --------

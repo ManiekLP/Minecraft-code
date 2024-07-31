@@ -3,7 +3,6 @@
 **Opis:**
 --------
 - W miare prosty plugin na itemshop z łatwą możliwością edytowania każdej usługi w pliku `items.yml`
-- 
 
 **Wymagania**
 --------

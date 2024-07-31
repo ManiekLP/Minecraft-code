@@ -6,6 +6,7 @@ Default:
 --------
 - command cooldown = `1000`
 - command cmd = `msg %PLAYER% test`
+- Keybinds to start spam: `G`
 
 Command:
 --------

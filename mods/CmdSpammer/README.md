@@ -2,6 +2,8 @@
 
 **Simply mod to Spam command on server Minecraft. Preferred for use with `/msg` command.**
 
+**Request: [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api)**
+
 Default:
 --------
 - command cooldown = `1000`
